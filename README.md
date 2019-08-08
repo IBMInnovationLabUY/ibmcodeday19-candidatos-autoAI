@@ -2,14 +2,8 @@
 
 <p align="center">
   <img src="assets/machinglearning.png" width="150" length="200">
-</p>
-
-<p align="center">
   <img src="assets/studio.png" width="150" length="200">
-</p>
-
-<p align="center">
-  <img src="assets/autoAI.png" width="150" length="200">
+  <img src="assets/autoAI.jpg" width="150" length="200">
 </p>
 
 ## Flujo
