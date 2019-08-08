@@ -1,7 +1,15 @@
 # Workshop sobre Watson Maching Learning y autoAI sobre Watson Visual Studio - Realmente estoy seguro de a quien voy a votar?
 
 <p align="center">
-  <img src="image_workshop/watson.png" width="150" length="200">
+  <img src="assets/machinglearning.png" width="150" length="200">
+</p>
+
+<p align="center">
+  <img src="assets/studio.png" width="150" length="200">
+</p>
+
+<p align="center">
+  <img src="assets/autoAI.png" width="150" length="200">
 </p>
 
 ## Flujo
