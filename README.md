@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="assets/machinglearning.png" width="150" length="200">
-  <img src="assets/studio.png" width="150" length="200">
+  <img src="assets/watsonstudio.png" width="150" length="200">
 </p>
 
 ## Flujo
@@ -77,5 +77,37 @@ En este punto si seguimos todos los pasos, deberiamos tener creado nuestro nuevo
 
 
 ## Agregar como un asset, el dataset previamente descargado.
+
+Una vez que hemos creado el proyecto es hora de agregar el dataset que descargamos anteriormente como un assets en nuestro proyecto. Para ello vamos a la pestaña assets y en el cuadro que se muestra a la derecha de la pantalla presionamos sobre "browse" y seleccionamos el dataset.
+
+![](/./assets/addcsv.png)
+
+
+![](/./assets/selectassets.png)
+
+Y deberiamos ver que se cargo correctamente el conjunto de datos.
+
+![](/./assets/dataset.png)
+
+## Refinar el dataset
+
+Ahora que tenemos agregado el conjunto de datos en el proyecto, debemos refinar dicho conjunto para lograr un correcto procesamiento por parte de la herramienta.
+
+Para ello hacemos click las opciones y seleccionamos "refine".
+
+![](/./assets/refine.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
