@@ -93,9 +93,13 @@ Y deberiamos ver que se cargo correctamente el conjunto de datos.
 
 Ahora que tenemos agregado el conjunto de datos en el proyecto, debemos refinar dicho conjunto para lograr un correcto procesamiento por parte de la herramienta.
 
-Para ello hacemos click las opciones y seleccionamos "refine".
+Para ello vamos a la opcion "actions" y seleccionamos "refine".
 
 ![](/./assets/refine.png)
+
+Una vez que accedemos al panel de refinamiento debemos estipular que la primer fila es un encabezado en nuestro dataset.
+
+![](/./assets/encabezado.png)
 
 
 
