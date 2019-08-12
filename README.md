@@ -33,7 +33,7 @@ En este workshop se presentaran los conceptos principales sobre el servicio auto
 - README.md
 
 ## Prerrequisitos
-* Registrarse en IBM Cloud: [Aquí](https://cloud.ibm.com/registration)
+* Registrarse en IBM Cloud: [Aquí](https://ibm.biz/Bd26aa)
 
 * Descargar el dataset
 
