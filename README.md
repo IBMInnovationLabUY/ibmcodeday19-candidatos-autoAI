@@ -27,7 +27,7 @@
 
 ## Descripción
 
-En este workshop se presentaran los conceptos principales sobre el servicio autoAI el cual se ofrece a traves de Watson Studio, ademas se presentara utilizaremnos otro de los servicios que nos ofrece IBM sobre Inteligencia Artificial, concretamente Watson Maching Learning. Con autoAI seremos capaces de generar distintos modelos de maching learning sobre un conjunto de datos especifico, permitiendos manipular el dataset para por ejemplo refinarlo. Adicionalmente nos brinda la capacidad de predecir distintas variables contenidas dentro de nuestro data set.
+En este workshop se presentaran los conceptos principales sobre el servicio autoAI el cual se ofrece a través de Watson Studio, además utilizaremnos otro de los servicios que nos ofrece IBM sobre Inteligencia Artificial, concretamente Watson Maching Learning. Con autoAI seremos capaces de generar distintos modelos de maching learning sobre un conjunto de datos especifico, permitiendos manipular el dataset para por ejemplo refinarlo. Adicionalmente nos brinda la capacidad de predecir distintas variables contenidas dentro de nuestro data set.
 
 ## ¿Qué tiene el repositorio?
 - Assets
