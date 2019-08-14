@@ -27,7 +27,9 @@
 
 ## Descripción
 
-En este workshop se presentaran los conceptos principales sobre el servicio autoAI el cual se ofrece a traves de Watson Studio, ademas se presentara utilizaremnos otro de los servicios que nos ofrece IBM sobre Inteligencia Artificial, concretamente Watson Maching Learning. Con autoAI seremos capaces de generar distintos modelos de maching learning sobre un conjunto de datos especifico, permitiendos manipular el dataset para por ejemplo refinarlo. Adicionalmente nos brinda la capacidad de predecir distintas variables contenidas dentro de nuestro data set.
+Al terminar este hands-on vas a tener los conocimiento suficientes para poder, usando Watson Studio, crear y testear un modelo de Machine Learning capaz de, en en base a un conjunto de datos, predecir una variable objetivo en futuras entradas. Se probara una nueva tecnología llamada AutoAI que tiene la capacidad para analizar los datos por nosotros.
+
+En particular, el set de datos que usaremos serán las respuestas a la encuesta presentada en aquienvoto.uy a partir del cual, usando Watson Studio, AutoAI y Watson Machine Learning, generaremos un modelo que en base a las respuestas a las preguntas nos sugiera un candidato. Ademas, se hará un análisis de los datos en función de las repuestas y el candidato de su preferencia.
 
 ## ¿Qué tiene el repositorio?
 - Assets
